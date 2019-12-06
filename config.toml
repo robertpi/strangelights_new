@@ -1,0 +1,4 @@
+baseURL = "http://robertpi.github.io/"
+languageCode = "en-us"
+title = "Strangelights"
+theme = "solar"
